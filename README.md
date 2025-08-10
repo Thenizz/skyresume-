@@ -1,0 +1,1 @@
+SkyResume - Full working project. Upload all files to GitHub and run Actions to build APK.
